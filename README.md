@@ -7,8 +7,7 @@
 </div></blockquote>
 <br/>
 
-<!--<h3> Let's Connect < img scr="https://user-images.githubusercontent.com/57868620/129479078-3026fcee-98e8-4b00-ba5c-f3b1383ea54b.gif" >
- </h3>
+ 
 
 
   
