@@ -5,26 +5,17 @@
  <blockquote><div align ="center">
   <p> I am pursuing B.Tech in CS with specialization in AI and DS. I like to do sketching and painting. </p>
 </div></blockquote>
-<br/>
+ <br/>
 
  
 
-
-  
-  
+##### <img src="A:\Programming\guithub_project\info page\images\source.gif" style="zoom:25%;" />Let's connect 
 
 
-<!--
-**riyabisht/riyabisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
