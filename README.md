@@ -5,7 +5,7 @@
  <div align ="center">
   <strong> I am pursuing B.Tech in CS with specialization in AI and DS. I like to do sketching and painting.</strong>
 </div>
- <br/>
+ 
 
  
 
